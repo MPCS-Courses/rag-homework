@@ -1,0 +1,18 @@
+Cloud computing delivers computing services over the internet, including servers, storage, databases, networking, and software.
+
+## Service Models
+
+Infrastructure as a Service (IaaS) provides virtualized computing resources. Platform as a Service (PaaS) offers development and deployment environments. Software as a Service (SaaS) delivers software applications over the internet.
+
+## Deployment Models
+
+Public clouds are owned by cloud service providers and shared among multiple organizations. Private clouds are dedicated to a single organization. Hybrid clouds combine public and private cloud resources.
+
+## Major Cloud Providers
+
+Amazon Web Services (AWS) offers a comprehensive suite of cloud services including EC2, S3, Lambda, and RDS. Microsoft Azure provides integrated cloud services with strong enterprise support. Google Cloud Platform (GCP) excels in data analytics and machine learning capabilities.
+
+## Benefits
+
+Cloud computing offers scalability, cost-effectiveness, flexibility, and reduced maintenance overhead. Organizations can quickly scale resources up or down based on demand, paying only for what they use.
+

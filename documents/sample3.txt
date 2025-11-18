@@ -1,0 +1,20 @@
+Streamlit is a Python framework for building data science applications.
+
+Using Streamlit, developers can quickly create interactive web applications without writing HTML, CSS, or JavaScript code.
+
+Key features of Streamlit include:
+- Easy to use: Create applications with just a few lines of Python code
+- Auto-reload: Automatically refresh the application after saving files
+- Rich components: Provides buttons, sliders, charts, and many other components
+- Integration with data science tools: Supports Pandas, NumPy, Matplotlib, and more
+
+FAISS (Facebook AI Similarity Search) is an efficient similarity search library developed by Facebook.
+
+FAISS supports multiple index types, including:
+- IndexFlatL2: Exact search using L2 distance
+- IndexIVFFlat: Inverted file index for faster speed
+- IndexHNSW: Graph-based index suitable for large-scale data
+
+Sentence Transformers is a Python library for generating sentence and document embeddings.
+
+It is based on pre-trained Transformer models and can convert text into high-dimensional vectors, which can be used for semantic search, clustering, and similarity calculations.

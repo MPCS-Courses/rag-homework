@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a branch of computer science that aims to create systems capable of performing tasks that typically require human intelligence.
+
+Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. Deep learning is a branch of machine learning that uses neural networks to simulate how the human brain works.
+
+Natural Language Processing (NLP) is an important field of artificial intelligence, focusing on enabling computers to understand, interpret, and generate human language. Modern NLP systems use Transformer architectures, such as BERT and GPT models.
+
+Vector databases are specialized databases for storing and retrieving high-dimensional vectors, playing a key role in RAG (Retrieval-Augmented Generation) systems. They can quickly find document vectors most similar to query vectors.
